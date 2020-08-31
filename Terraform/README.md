@@ -6,8 +6,12 @@
     choco install terraform
     ```
 
-### Comandos para Aws
+### Lista de Providers
+- Info: https://www.terraform.io/docs/providers/index.html
 
+### Comandos para Aws
+- Info para Aws https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+- Comandos 
 ```
 brew install terraform
 terraform --version
