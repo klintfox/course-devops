@@ -1,13 +1,14 @@
-## Instalación en Windows 
+# Terraform
+
+### Instalación en Windows 
 - Info: https://learn.hashicorp.com/tutorials/terraform/install-cli
     ```
     choco install terraform
     ```
 
-# Comandos
+### Comandos para Aws
 
 ```
-
 brew install terraform
 terraform --version
 terraform version
