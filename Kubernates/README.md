@@ -1,3 +1,8 @@
+# Kubernetes en GCloud
+
+### Comandos
+```
+
 docker run -p 8080:8080 in28min/hello-world-rest-api:0.0.1.RELEASE
 
 kubectl create deployment hello-world-rest-api --image=in28min/hello-world-rest-api:0.0.1.RELEASE
@@ -106,3 +111,5 @@ kubectl get all
 
 kubectl apply -f deployment.yaml 
 kubectl apply -f ../currency-conversion/deployment.yaml 
+
+```

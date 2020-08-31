@@ -1,3 +1,9 @@
+## Instalación en Windows 
+- Info: https://learn.hashicorp.com/tutorials/terraform/install-cli
+    ```
+    choco install terraform
+    ```
+
 # Comandos
 
 ```
